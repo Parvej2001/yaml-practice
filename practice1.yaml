@@ -3,3 +3,9 @@
 app: parvej
 port: 9000
 version: 1.7
+
+#objects
+microservice:
+  app: user-application
+  port: 8000
+  version: 1.9
