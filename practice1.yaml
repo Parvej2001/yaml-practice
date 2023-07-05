@@ -1,0 +1,4 @@
+#key value pair (this are comments)
+app: parvej
+port: 9000
+version: 1.7
